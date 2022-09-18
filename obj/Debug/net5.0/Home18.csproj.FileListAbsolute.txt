@@ -1,0 +1,16 @@
+D:\Beatroot\Home18\bin\Debug\net5.0\Home18.exe
+D:\Beatroot\Home18\bin\Debug\net5.0\Home18.deps.json
+D:\Beatroot\Home18\bin\Debug\net5.0\Home18.runtimeconfig.json
+D:\Beatroot\Home18\bin\Debug\net5.0\Home18.runtimeconfig.dev.json
+D:\Beatroot\Home18\bin\Debug\net5.0\Home18.dll
+D:\Beatroot\Home18\bin\Debug\net5.0\ref\Home18.dll
+D:\Beatroot\Home18\bin\Debug\net5.0\Home18.pdb
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.csproj.AssemblyReference.cache
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.AssemblyInfoInputs.cache
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.AssemblyInfo.cs
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.csproj.CoreCompileInputs.cache
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.dll
+D:\Beatroot\Home18\obj\Debug\net5.0\ref\Home18.dll
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.pdb
+D:\Beatroot\Home18\obj\Debug\net5.0\Home18.genruntimeconfig.cache
